@@ -16,5 +16,3 @@ John | Pta
     * item 2.2
 
 You can even [link google](http://google.com)
-
-you can even [go to AZ Academy](http://www.twintwee.com)
